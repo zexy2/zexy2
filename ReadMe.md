@@ -15,7 +15,10 @@ I'm currently studying at Manisa Celal Bayar University<br>I have intermediate l
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zexy2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake gif](https://github.com/zexy2/zexy2/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zexy2/zexy2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zexy2/zexy2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zexy2/zexy2/output/github-contribution-grid-snake.svg">
+</picture>
