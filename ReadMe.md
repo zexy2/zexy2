@@ -16,3 +16,6 @@ I'm currently studying at Manisa Celal Bayar University<br>I have intermediate l
 ![](https://github-profile-trophy.vercel.app/?username=zexy2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/zexy2/zexy2/blob/output/github-contribution-grid-snake.svg)
