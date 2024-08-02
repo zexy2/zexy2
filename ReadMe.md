@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at Manisa Celal Bayar University<br>I have intermediate level command of Java and Pyhton language.<br><br>
+I'm currently studying at Manisa Celal Bayar University<br><br><br>
 
 
 ## 🌐 Socials:
