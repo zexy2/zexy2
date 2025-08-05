@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd year Computer Engineering student at Manisa Celal Bayar University. Exploring different areas of software development and continuously learning new technologies to broaden my knowledge in computer science.<br><br><br>
+I'm a 4rd year Computer Engineering student at Manisa Celal Bayar University. Exploring different areas of software development and continuously learning new technologies to broaden my knowledge in computer science.<br><br><br>
 
 
 ## 🌐 Socials:
