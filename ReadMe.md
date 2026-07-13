@@ -7,44 +7,56 @@
 
 </div>
 
-# 💫 About Me:
-I'm a Computer Engineering graduate based in İzmir, Turkey, focused on full-stack software development. I build practical web applications with modern frontend, backend, and database technologies; especially React / Next.js, Java / Spring Boot, NestJS / Node.js, and PostgreSQL / PostGIS.<br><br>
-I care about clean APIs, reliable data models, usable interfaces, and projects that are easy to review: clear setup, understandable architecture, meaningful commits, and practical documentation.<br><br>
-Currently improving my public repositories around full-stack product development, backend systems, spatial data workflows, testing, and developer tooling.
+## About
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/postgis-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![JUnit5](https://img.shields.io/badge/junit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
-![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I'm a Computer Engineering graduate in İzmir, focused on full-stack web development. I usually work with React, Next.js, Java/Spring Boot, NestJS/Node.js, and PostgreSQL/PostGIS.
 
-# 🚀 Featured Projects:
-- **Nexus** — TypeScript workspace for turning project-plan changes into reviewed Kanban updates; focused on developer tooling, product workflows, and human-approved change control.
-- **FixMyCity** — City-tech project around location-based issue reporting and municipal workflows; strong proof point for PostgreSQL/PostGIS and backend data modeling.
-- **Behzadchoco** — Real client-facing web project for a local business presence; focused on responsive UI, stakeholder communication, and practical delivery.
-- **Weather App for Turkish Cities** — React / TypeScript / Leaflet weather dashboard for Turkish provinces with map-based interaction and i18n support.
+I like building projects that are easy to understand and run: clear APIs, practical interfaces, reliable data models, and documentation that helps another developer review the work without guessing.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zexy2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zexy2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zexy2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Stack
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zexy2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+| Area | Tools I use |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| Backend | Java, Spring Boot, NestJS, Node.js, REST APIs |
+| Data | PostgreSQL, PostGIS, SQL |
+| Testing and workflow | JUnit, Playwright, Postman/Newman, Docker, Git |
 
+## Selected work
 
+### Nexus
+
+A TypeScript workspace for managing project-plan changes through reviewed Kanban updates.
+
+- Focuses on traceability between plans, proposals, and board changes.
+- Shows my interest in developer tools and structured project workflows.
+
+### FixMyCity
+
+A city-tech project for location-based issue reporting and municipal workflows.
+
+- Uses PostgreSQL/PostGIS concepts for spatial data and location-aware queries.
+- Represents my strongest backend/data-modeling direction.
+
+### Behzadchoco
+
+A real client-facing web project for a local business presence.
+
+- Focused on responsive UI, content presentation, and stakeholder communication.
+- Gave me experience delivering work for a real non-technical user.
+
+### Weather App for Turkish Cities
+
+A React and TypeScript weather dashboard for Turkish provinces.
+
+- Uses map-based interaction with Leaflet and localized UI support.
+- Good example of combining external data, frontend state, and visual interaction.
+
+## Current focus
+
+- Cleaning older repositories so the setup, screenshots, and README files are easier to review.
+- Adding clearer architecture notes and local run instructions where they are missing.
+- Keeping public work simple, honest, and useful instead of filling the profile with template widgets.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zexy2/zexy2/output/github-contribution-grid-snake-dark.svg">
