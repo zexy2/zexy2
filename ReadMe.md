@@ -9,57 +9,38 @@
 
 ## About
 
-I'm a Computer Engineering graduate in İzmir, focused on full-stack web development. I usually work with React, Next.js, Java/Spring Boot, NestJS/Node.js, and PostgreSQL/PostGIS.
+Computer Engineering graduate in İzmir, focused on full-stack web development. I work mostly with React, Next.js, Java/Spring Boot, NestJS/Node.js, and PostgreSQL/PostGIS.
 
-I like building projects that are easy to understand and run: clear APIs, practical interfaces, reliable data models, and documentation that helps another developer review the work without guessing.
+I build practical projects with clear APIs, usable interfaces, reliable data models, and documentation that makes the work easy to review.
 
 ## Stack
 
-| Area | Tools I use |
-| --- | --- |
-| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
-| Backend | Java, Spring Boot, NestJS, Node.js, REST APIs |
-| Data | PostgreSQL, PostGIS, SQL |
-| Testing and workflow | JUnit, Playwright, Postman/Newman, Docker, Git |
+| Frontend | Backend | Data | Testing and workflow |
+| --- | --- | --- | --- |
+| React, Next.js, TypeScript, JavaScript, Tailwind CSS | Java, Spring Boot, NestJS, Node.js, REST APIs | PostgreSQL, PostGIS, SQL | JUnit, Playwright, Postman/Newman, Docker, Git |
 
 ## Selected work
 
-### Nexus
-
-A TypeScript workspace for managing project-plan changes through reviewed Kanban updates.
-
-- Focuses on traceability between plans, proposals, and board changes.
-- Shows my interest in developer tools and structured project workflows.
-
-### FixMyCity
-
-A city-tech project for location-based issue reporting and municipal workflows.
-
-- Uses PostgreSQL/PostGIS concepts for spatial data and location-aware queries.
-- Represents my strongest backend/data-modeling direction.
-
-### Behzadchoco
-
-A real client-facing web project for a local business presence.
-
-- Focused on responsive UI, content presentation, and stakeholder communication.
-- Gave me experience delivering work for a real non-technical user.
-
-### Weather App for Turkish Cities
-
-A React and TypeScript weather dashboard for Turkish provinces.
-
-- Uses map-based interaction with Leaflet and localized UI support.
-- Good example of combining external data, frontend state, and visual interaction.
+| Project | Focus |
+| --- | --- |
+| [Nexus](https://github.com/zexy2/Nexus) | TypeScript workspace for reviewed project-plan and Kanban updates |
+| FixMyCity | Location-based city issue reporting with PostgreSQL/PostGIS focus |
+| Behzadchoco | Real client-facing website project for a local business |
 
 ## Current focus
 
-- Cleaning older repositories so the setup, screenshots, and README files are easier to review.
-- Adding clearer architecture notes and local run instructions where they are missing.
-- Keeping public work simple, honest, and useful instead of filling the profile with template widgets.
+| Area | What I am improving |
+| --- | --- |
+| Repository quality | Clear setup steps, screenshots, and README files |
+| Architecture notes | Short explanations of data models, API boundaries, and trade-offs |
+| Reviewability | Keeping public work simple, honest, and easy to evaluate |
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zexy2/zexy2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zexy2/zexy2/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zexy2/zexy2/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
