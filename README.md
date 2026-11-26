@@ -1,4 +1,4 @@
-Full-stack software engineer and recent Computer Engineering graduate. I build web apps, APIs and tools around LLMs. Currently working on [Nexus](https://github.com/zexy2/Nexus), [IzmirMCP](https://github.com/zexy2/izmirmcp) and [Mealog](https://github.com/zexy2/mealog).
+Full-stack software engineer. I build web apps, APIs and tools around LLMs. Currently working on [Nexus](https://github.com/zexy2/Nexus), [IzmirMCP](https://github.com/zexy2/izmirmcp) and [Mealog](https://github.com/zexy2/mealog).
 
 Based in İzmir, open to roles in Istanbul, remote and the EU. Portfolio at [zekiakgul.dev](https://zekiakgul.dev/en/), writing on [Medium](https://medium.com/@zeki.akgul), and on [LinkedIn](https://www.linkedin.com/in/zeki-akgul/).
 
