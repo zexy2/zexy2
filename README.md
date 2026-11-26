@@ -1,6 +1,17 @@
-Full-stack software engineer. I build web apps, APIs and tools around LLMs. Currently working on [Nexus](https://github.com/zexy2/Nexus), [IzmirMCP](https://github.com/zexy2/izmirmcp) and [Mealog](https://github.com/zexy2/mealog).
+# Hey, I'm Zeki 👋
 
-Based in İzmir, open to roles in Istanbul, remote and the EU. Portfolio at [zekiakgul.dev](https://zekiakgul.dev/en/), writing on [Medium](https://medium.com/@zeki.akgul), and on [LinkedIn](https://www.linkedin.com/in/zeki-akgul/).
+I'm a full-stack software engineer. I build products end to end, from React and Next.js interfaces to Node.js, Java and Python services on PostgreSQL, and I care about what happens after launch: tests, CI, live deployments and honest limits.
+
+Lately I'm building tools around LLMs where the model is one careful part of the system, not the whole product.
+
+## What I'm building
+
+- **[Nexus](https://github.com/zexy2/Nexus)**: project workspace where an AI proposes task changes and nothing reaches the board without approval ([live demo](https://nexus.zekiakgul.dev))
+- **[IzmirMCP](https://github.com/zexy2/izmirmcp)**: MCP server with 36 tools over İzmir's open city data, on [PyPI](https://pypi.org/project/izmir-mcp/) and the official MCP Registry
+- **[Mealog](https://github.com/zexy2/mealog)**: meal logger that asks instead of guessing; nutrition comes from a verified food database, not the model
+- **[Hava81](https://github.com/zexy2/Hava81)**: weather app for Turkey's 81 provinces built around planning the day ([live](https://hava81.zekiakgul.dev))
+- **[Postify](https://github.com/zexy2/postify)**: developer knowledge platform that shows whether a guide was tested and whether that still holds ([live](https://postify.zekiakgul.dev))
+- **[MacMixer](https://github.com/zexy2/mac-audio-mixer)**: per-app volume and mute for macOS, from the menu bar
 
 <table><tr><td valign="top" width="50%">
 
@@ -34,3 +45,5 @@ Based in İzmir, open to roles in Istanbul, remote and the EU. Portfolio at [zek
 More on [Medium](https://medium.com/@zeki.akgul)
 
 </td></tr></table>
+
+[Portfolio](https://zekiakgul.dev/en/) · [LinkedIn](https://www.linkedin.com/in/zeki-akgul/) · [Medium](https://medium.com/@zeki.akgul)
